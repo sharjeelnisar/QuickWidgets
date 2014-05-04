@@ -259,15 +259,7 @@ public class QuickBarGraph extends View{
 
 	@Override
 	public boolean onTouchEvent(MotionEvent  e) {
-		switch(e.getAction()){
-		case MotionEvent.ACTION_UP:
-         if(this.isClickable()){
-        	
-           }
-             break;
-              
-         
-		}
+		
 		 return true;
 		
 	}
