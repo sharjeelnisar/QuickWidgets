@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apptheme_color">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="highlight">#a84a01</color>
+    <color name="landTheme1PrayerTextColor">#2e352c</color>
+    <color name="golden">#ffff00</color>
+    <color name="alarming">#f59baa</color>
+</resources>
