@@ -28,6 +28,9 @@ public class QuickBarGraph extends View{
 	private Paint barPaint;
 	private Paint xLabelPaint;
 	private Paint yLabelPaint;
+	private Paint barPaint;
+	private Paint xLabelPaint;
+	private Paint yLabelPaint;
 	private String barColor;
 	private String xLabelColor;
 	private String yLabelColor;
@@ -74,7 +77,6 @@ public class QuickBarGraph extends View{
 	public void setyLabelFont(String yLabelFont) {
 		this.yLabelFont = yLabelFont;
 	}
-
 
 	public int getBarXCoordinate() {
 		return barXCoordinate;
@@ -156,7 +158,6 @@ public class QuickBarGraph extends View{
 		this.yLabelYCoordinate = yLabelYCoordinate;
 	}
 
-
 	public String getBarColor() {
 		return barColor;
 	}
@@ -203,7 +204,6 @@ public class QuickBarGraph extends View{
 	public void setyLabelTextSize(int yLabelTextSize) {
 		this.yLabelTextSize = yLabelTextSize;
 	}
-
 
 	@Override
 	public boolean onTouchEvent(MotionEvent  e) {
