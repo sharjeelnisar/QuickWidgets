@@ -1,4 +1,4 @@
-QuickWidgets
+QuickWidgets ---- Deprecated
 ============
 
 A simple collection of android customized widgets.
